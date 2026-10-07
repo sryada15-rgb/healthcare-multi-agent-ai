@@ -1,0 +1,6 @@
+[
+  {"policy_id":"POL-MRI-001","section":"Diagnostic Imaging","page":12,"text":"MRI is covered when medically necessary. Certain MRI procedures require prior authorization before the service is performed."},
+  {"policy_id":"POL-CLAIM-002","section":"Claim Denials","page":31,"text":"A claim may be denied when required prior authorization was not obtained. Members or providers may contact support to review appeal options."},
+  {"policy_id":"POL-BEN-003","section":"Benefits","page":8,"text":"Diagnostic imaging benefits are subject to the member plan, deductible, coinsurance, network status, medical necessity, and authorization requirements."},
+  {"policy_id":"POL-PA-004","section":"Prior Authorization","page":20,"text":"Prior authorization requests are reviewed using clinical criteria. Authorization status can be pending, approved, denied, or expired."}
+]
